@@ -1,14 +1,25 @@
 <template>
   <Header />
+  <h1>Assine a melhor internet de Fibra Óptica</h1>
+  <styled-wrapper>
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+  </styled-wrapper>
 </template>
 
 <script>
 import Header from "./components/Header/Header.vue";
+import Card from "./components/Card/Card.vue";
+import { StyledWrapper } from "./App.style.js"
 
 export default {
   name: "App",
   components: {
     Header,
+    Card,
+    StyledWrapper
   },
   methods: {
     onClick() {
@@ -19,7 +30,9 @@ export default {
 </script>
 
 <style>
-#app, *, body{
+#app,
+*,
+body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
