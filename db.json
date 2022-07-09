@@ -1,0 +1,53 @@
+{
+    "internet": [
+        {
+            "id": 1,
+            "velocidade": "300 mega",
+            "titulo": "de Internet com Wifi-grátis e Serviços Digitais",
+            "valor": 99.99
+        },
+        {
+            "id": 2,
+            "velocidade": "500 mega",
+            "titulo": "de Internet com Wifi-grátis e Serviços Digitais",
+            "valor": 159.99   
+        },
+        {
+            "id": 3,
+            "velocidade": "700 mega",
+            "titulo": "de Internet com Wifi-grátis e Serviços Digitais",
+            "valor": 199.99
+        },
+        {
+            "id": 1,
+            "velocidade": "1 Giga",
+            "titulo": "de Internet com Wifi-grátis e Serviços Digitais",
+            "valor": 250.99
+        }
+    ],
+    "fixo": [
+        {
+            "id": 1,
+            "img": "https://cdn.melhorplano.net/cms/2021/06/14/60c7a20a82461Operadoras_de_telefone_fixo.png",
+            "valor": 64.99
+        }
+    ],
+    "tv": [
+        {
+            "id": 1,
+            "img": "https://www.infobae.com/new-resizer/1gjcYjNu_Pg17STdc9KDG3YYODk=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/EJAIZTF5WNDJXJVPIHL45V75YU.png"
+        },
+        {
+            "titulo": "filmes",
+            "valor": 69.99
+        },
+        {
+            "titulo": "filmes + series",
+            "valor": 99.99 
+        },
+        {
+            "titulo": "filmes + series + futebol",
+            "valor": 149.99
+        }
+    ]
+}

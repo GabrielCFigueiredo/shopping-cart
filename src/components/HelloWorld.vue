@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <styled-title>jkkkkkkkkkkkkkkk</styled-title>
   </div>
 </template>
 
